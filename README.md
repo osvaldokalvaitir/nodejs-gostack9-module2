@@ -46,7 +46,7 @@ npm install | yarn
 npm dev | yarn dev
 ```
 
-Click to learn more about the tools used: [Insomnia](https://github.com/osvaldokalvaitir/awesome/blob/main/src/api-clients/insomnia/insomnia.md), [Docker](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker/docker.md), Imagem Docker do PostgreSQL [postgres](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker/images/postgres.md), [Postbird](https://github.com/osvaldokalvaitir/awesome/blob/main/src/sgdbs/postgresql/postbird.md).
+Click to learn more about the tools used: [Insomnia](https://github.com/osvaldokalvaitir/awesome/blob/main/src/api-clients/insomnia/insomnia.md), [Docker](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker/docker.md), PostgreSQL Docker Image [postgres](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker/images/postgres.md), [Postbird](https://github.com/osvaldokalvaitir/awesome/blob/main/src/sgdbs/postgresql/postbird.md).
 
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=GoBarber&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fosvaldokalvaitir%2Fnodejs-gostack9-module2%2Fmain%2FInsomnia.json)
 
