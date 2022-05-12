@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  :barber: GoBarber Application using Node.js, Express, Nodemon, Sucrase, ESLint, Prettier, Sequelize, Json Web Token, bcrypt.js, Yup, pg and pg-hstore
+  :barber: GoBarber Application using Node.js, Express, Nodemon, Sucrase, ESLint, Prettier, Sequelize, Json Web Token, bcrypt.js, Yup, pg, pg-hstore, Insomnia, Docker and Postbird
 </p>
 
 <p align="center">
