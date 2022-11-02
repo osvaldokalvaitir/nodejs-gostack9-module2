@@ -43,7 +43,7 @@ cd nodejs-gostack9-module2
 npm install | yarn
 
 # Launch the app with npm or yarn
-npm dev | yarn dev
+npm run dev | yarn dev
 ```
 
 Click to learn more about the tools used: [Insomnia](https://github.com/osvaldokalvaitir/awesome/blob/main/src/api-clients/insomnia/insomnia.md), [Docker](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker/docker.md), [PostgreSQL Docker Image postgres](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker/images/postgres.md), [Postbird](https://github.com/osvaldokalvaitir/awesome/blob/main/src/sgdbs/postgresql/postbird.md).
